@@ -1,6 +1,6 @@
 # ShotItgame
 
-VB6 working copy of `ShotItgame` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Shotit. Output: `Shot It.exe`. `VersionCompanyName`: ***********.
+VB6 DirectX 7 shooter demo (`Shot It.exe` / Shotit by Mathias Kunter): Mk3d engine classes drive a StartForm + RenderForm 3D shoot-it game (needs DX7+ and a 3D card). Open `Shotit.vbp` in the VB6 IDE; compile before run for frame rate.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
@@ -10,22 +10,4 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
-| `ShotIt` (`Shotit.vbp`) | VB6 | WinForms exe | Shotit |
-
-## How to open
-
-Open the `.vbp` in Visual Basic 6.0 IDE:
-- `Shotit.vbp`
-
-## Requirements
-
-- Visual Basic 6.0 IDE
-
-## Attribution and provenance
-
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/ShotItgame`.
-Company names in project files: ***********.
-
-## License
-
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+| `ShotIt` (`Shotit.vbp`) | VB6 | WinForms exe | DirectX 7 Mk3d shoot-it game demo |
