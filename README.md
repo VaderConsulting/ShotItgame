@@ -11,3 +11,21 @@ _Note: original OneDrive LastWriteTime values were wiped to 2026-08-27 by a zip 
 | Project | Language | Type | Purpose |
 |---------|----------|------|---------|
 | `ShotIt` (`Shotit.vbp`) | VB6 | WinForms exe | DirectX 7 Mk3d shoot-it game demo |
+
+## How to open
+
+Open the `.vbp` in Visual Basic 6.0 IDE:
+- `Shotit.vbp` (compile before run for frame rate)
+
+## Requirements
+
+- Visual Basic 6.0 IDE
+- DirectX 7 runtime and a Direct3D-capable video card
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `VB/Old/ShotItgame`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
